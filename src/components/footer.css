@@ -1,0 +1,30 @@
+.FooterDiv{
+    width: fit-content;
+    height: 20rem;
+    background-color: black;
+    display: flex;
+    margin-bottom: 0%;
+    margin-top: 100%;
+    padding-right: 4rem;
+    padding-left: 4rem;
+}
+
+.ServicesDiv{
+    padding-right: 0rem;
+    margin-right: 7rem;
+    padding-top: 3rem;
+}
+
+.AboutDiv{
+    padding-left: 3rem;
+    margin-left: 7rem;
+    padding-top: 3rem;
+}
+
+.FooterLogo{
+    position: relative;
+    width: 8rem;
+    height: 3rem;
+    left: 38rem;
+    top: 0.5rem;
+}

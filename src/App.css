@@ -1,0 +1,36 @@
+.back{
+  background: linear-gradient(to bottom, black 34%, #CDF9FF 100%)
+}
+
+.navBar{
+  position: absolute; 
+  left: 0rem;
+  top: 0rem;
+  color: 'white'; 
+  font-size: 24; 
+  font-family: 'Inter'; 
+  font-weight: '500'; 
+  line-height: 16.71; 
+  word-wrap: 'break-word';
+}
+
+.navBarButton{
+  display: flexbox;
+  margin-left: 40rem;
+}
+
+.headerButton{
+  display: flexbox;
+  background-color: white;
+  border-radius: 20rem;
+  color: black;
+  margin-left: 5rem;
+}
+
+.logo{
+  position: relative;
+  top: 1.25rem;
+  margin-left: 7rem;
+  width: 8rem;
+  height: 3rem;
+}
